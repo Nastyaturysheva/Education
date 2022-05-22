@@ -10,7 +10,7 @@ def tax_salary_per_worker(salary: int) -> pd.DataFrame:
     Parameters
     ----------
     salary : int
-        DESCRIPTION.
+        Заработная плата сотрудника за месяц в рублях
 
     Returns
     -------
