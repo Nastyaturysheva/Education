@@ -14,8 +14,8 @@ def tax_salary_per_worker(salary: int) -> pd.DataFrame:
 
     Returns
     -------
-    table : TYPE
-        DESCRIPTION.
+    table : pd.DataFrame
+        Сумма налогов удержанная из заработной платы. 4 строки. 2 столбца.
 
     """
 
