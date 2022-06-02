@@ -1,0 +1,1 @@
+from ru_taxes import tax_salary_per_worker
