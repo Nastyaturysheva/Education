@@ -59,17 +59,5 @@ is_leap_year(2100)
 is_leap_year(2800)
 is_leap_year(2677)
 
-def annuity_credit(body: float, month_number: int, rate: float) -> float:
-    """
-    Расчет потребительского кредита с % ставкой, который вернет ежемесячный аннуитетнтный платеж
-    Parameters
-    ----------
-    body
-    month_number
-    rate
 
-    Returns
-    -------
-
-    """
 
